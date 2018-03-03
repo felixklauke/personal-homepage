@@ -2,17 +2,12 @@ nav.navbar.navbar-default(role='navigation')
     .navbar-header
         button.navbar-toggle(type='button', data-toggle='collapse', data-target='#navbar-collapse-01')
             span.sr-only Toggle navigation
-        a.navbar-brand(href='#') Flat UI
+        a.navbar-brand(href='/') Felix Klauke
     #navbar-collapse-01.collapse.navbar-collapse
         ul.nav.navbar-nav
-            li.active
-                a(href='#fakelink') Products
-            li
-                a(href='#fakelink') Features
-        form.navbar-form.navbar-right(action='#', role='search')
-            .form-group
-                .input-group
-                    input#navbarInput-01.form-control(type='search', placeholder='Search')
-                    span.input-group-btn
-                        button.btn(type='submit')
-                            span.fui-search
+            li(class=active === 'blog' ? 'active' : '')
+                a(href='#fakelink') Blog
+            li(class=active === 'projects' ? 'active' : '')
+                a(href='#fakelink') Projekte
+            li(class=active === 'gallery' ? 'active' : '')
+                a(href='#fakelink') Gallerie
