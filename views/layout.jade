@@ -1,7 +1,17 @@
 doctype html
+
 html
   head
     title= title
+      link(rel='stylesheet', href='/stylesheets/vendor/bootstrap/css/bootstrap.min.css')
+      link(rel='stylesheet', href='/stylesheets/flat-ui.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
-    block content
+      #container
+          include navbar
+          #content
+              block content
+
+      script(src='/javascripts/flat-ui.js')
+      script(src='/javascripts/vendor/jquery.min.js')
+      script(src='/javascripts/vendor/video.js')
