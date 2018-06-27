@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f202ddd9-fc21-40e6-ae6a-daeeb6397e1b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons/flat-ui-icons-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons/flat-ui-icons-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons/flat-ui-icons-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons/flat-ui-icons-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons/selection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bolditalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bolditalic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bolditalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-bolditalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/lato/lato-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Clipboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Compas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Gift-Box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Infinity-Loop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Pensils.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Pocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Retina-Ready.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Toilet-Paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/png/Watches.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/chat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/clipboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/clocks.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/compas.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/gift-box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/loop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/paper-bag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/pencils.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/retina.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/ribbon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/svg/toilet-paper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/login/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/login/imac-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/login/imac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/tile/ribbon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/tile/ribbon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/flat-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/flat-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/vendor/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/vendor/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/vendor/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/vendor/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/vendor/video-js.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/vendor/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/flat-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/flat-ui.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/flat-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/imprint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/privacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/error.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/footer.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/imprint.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/navbar.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/privacy.jade" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <executablePath>/usr/local/bin/composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jade File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/routes/pages.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/routes/imprint.js" />
+        <option value="$PROJECT_DIR$/views/imprint.jade" />
+        <option value="$PROJECT_DIR$/routes/privacy.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/privacy.jade" />
+        <option value="$PROJECT_DIR$/views/navbar.jade" />
+        <option value="$PROJECT_DIR$/views/footer.jade" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1.8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="32" />
+    <option name="width" value="2485" />
+    <option name="height" value="1410" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="personal-homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="9.5.0" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/javascripts" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/public/stylesheets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f202ddd9-fc21-40e6-ae6a-daeeb6397e1b" name="Default" comment="" />
+      <created>1520011977626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520011977626</updated>
+      <workItem from="1520011979884" duration="653000" />
+      <workItem from="1520020226035" duration="10035000" />
+      <workItem from="1520111884896" duration="231000" />
+      <workItem from="1520148377159" duration="4462000" />
+      <workItem from="1520274323716" duration="212000" />
+      <workItem from="1520841628924" duration="924000" />
+      <workItem from="1520854675152" duration="1559000" />
+      <workItem from="1520924570789" duration="2136000" />
+      <workItem from="1521100154266" duration="230000" />
+      <workItem from="1522926913069" duration="454000" />
+      <workItem from="1528655629964" duration="442000" />
+      <workItem from="1528705488538" duration="18744000" />
+      <workItem from="1528871823654" duration="13000" />
+      <workItem from="1530040736405" duration="570000" />
+      <workItem from="1530102279221" duration="888000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add basic project structure.">
+      <created>1520012435900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520012435900</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add flat ui theme and nav bar.">
+      <created>1520060220977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520060220977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add fouter and properly formatted nav.">
+      <created>1520070122407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520070122407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add privacy and imprint.">
+      <created>1520152249324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520152249324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix some typos.">
+      <created>1520926555551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520926555551</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41553000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="23" width="2506" height="1417" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5073133" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21279876" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3294956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12378247" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3294956" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.3604541" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Add basic project structure." />
+    <MESSAGE value="Add flat ui theme and nav bar." />
+    <MESSAGE value="Add fouter and properly formatted nav." />
+    <MESSAGE value="Add privacy and imprint." />
+    <MESSAGE value="Fix some typos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix some typos." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/imprint.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="83" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="3" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/imprint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/privacy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/navbar.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/privacy.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5586">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/imprint.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="83" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="3" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/imprint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/privacy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/navbar.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/privacy.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5586">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/imprint.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="83" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="3" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/imprint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/privacy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6489">
+          <caret line="309" column="6" selection-start-line="309" selection-start-column="6" selection-end-line="309" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/navbar.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6489">
+          <caret line="309" column="6" selection-start-line="309" selection-start-column="6" selection-end-line="309" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/flat-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10697" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/pages.js" />
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="3" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/imprint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/privacy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/privacy.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5586">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/navbar.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/imprint.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="83" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

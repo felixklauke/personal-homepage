@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="40a9587b-3f68-475f-a3d1-caa8504f5cf5" name="web01" url="http://www.felix-klauke.de">
+        <fileTransfer host="web01.felix-klauke.de" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/nodejs/www.felix-klauke.de/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

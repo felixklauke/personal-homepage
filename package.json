@@ -1,21 +1,27 @@
 {
   "name": "personal-homepage",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "version": "1.0.0",
+  "description": "My personal homepage with links and content regarding my life, projects and more.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixKlauke/personal-homepage.git"
   },
+  "keywords": [
+    "personal",
+    "homepage",
+    "links",
+    "node",
+    "developer",
+    "java"
+  ],
+  "author": "Felix Klauke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelixKlauke/personal-homepage/issues"
+  },
+  "homepage": "https://github.com/FelixKlauke/personal-homepage#readme",
   "dependencies": {
-    "@fortawesome/fontawesome": "^1.1.4",
-    "@fortawesome/fontawesome-free-brands": "^5.0.8",
-    "@fortawesome/fontawesome-free-regular": "^5.0.8",
-    "@fortawesome/fontawesome-free-solid": "^5.0.8",
-    "body-parser": "~1.18.2",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
-    "express": "~4.15.5",
-    "jade": "~1.11.0",
-    "morgan": "~1.9.0",
-    "serve-favicon": "~2.4.5"
+    "express": "^4.16.3"
   }
 }
