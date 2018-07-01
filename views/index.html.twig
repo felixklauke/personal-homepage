@@ -1,0 +1,83 @@
+{% extends 'layout.html.twig' %}
+
+{% block pageContent %}
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light white scrolling-navbar">
+            <div class="container">
+
+
+                <!-- Branding -->
+                <a class="navbar-brand" href="/">
+                    <span class="blue-text">Felix Klauke</span>
+                </a>
+
+                <!-- Collapse -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Links -->
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link waves-effect" href="/">Home
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+
+    </header>
+
+    <main>
+        <div class="container">
+
+        </div>
+    </main>
+
+    <footer class="page-footer text-center font-small mdb-color darken-2 mt-4 wow fadeIn">
+        <div class="pt-4">
+            <a class="btn btn-outline-white" href="/meta/imprint" target="_blank" role="button">Imprint
+                <i class="fa fa-download ml-2"></i>
+            </a>
+            <a class="btn btn-outline-white" href="/meta/privacy" target="_blank" role="button">Privacy
+                <i class="fa fa-graduation-cap ml-2"></i>
+            </a>
+        </div>
+
+        <hr class="mr-4">
+
+        <!-- Social icons -->
+        <div class="pb-4">
+            <a href="https://www.facebook.com/0xFelixKlauke" target="_blank">
+                <i class="fa fa-facebook mr-3"></i>
+            </a>
+
+            <a href="https://twitter.com/FelixKlauke" target="_blank">
+                <i class="fa fa-twitter mr-3"></i>
+            </a>
+
+            <a href="https://github.com/FelixKlauke" target="_blank">
+                <i class="fa fa-github mr-3"></i>
+            </a>
+
+            <a href="https://medium.com/@felixklauke" target="_blank">
+                <i class="fa fa-medium mr-3"></i>
+            </a>
+        </div>
+
+        <div class="footer-copyright py-3">
+            © 2018 Copyright
+            <a href="https://www.felix-klauke.de" target="_blank"> Felix Klauke</a> | All rights reserved.
+        </div>
+    </footer>
+{% endblock %}
+
+{% block pageJavaScripts %}
+
+{% endblock %}
