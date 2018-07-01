@@ -23,6 +23,7 @@
   "homepage": "https://github.com/FelixKlauke/personal-homepage#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "mdbootstrap": "^4.5.5",
     "twig": "^1.12.0"
   }
 }
