@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "My personal homepage with links and content regarding my life, projects and more.",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FelixKlauke/personal-homepage.git"
