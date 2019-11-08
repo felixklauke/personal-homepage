@@ -28,7 +28,7 @@
     "express": "^4.17.1",
     "mdbootstrap": "^4.8.11",
     "node-sass-middleware": "^0.11.0",
-    "twig": "^1.12.0"
+    "twig": "^1.13.3"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
