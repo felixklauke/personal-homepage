@@ -26,7 +26,7 @@
   "homepage": "https://github.com/FelixKlauke/personal-homepage#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mdbootstrap": "^4.10.0",
+    "mdbootstrap": "^4.10.1",
     "node-sass-middleware": "^0.11.0",
     "twig": "^1.14.0"
   },
